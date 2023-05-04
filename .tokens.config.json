@@ -1,0 +1,9 @@
+{
+  "tokenFormat": "TokensStudio",
+  "figmaFileId": "",
+  "inputFile": "./tokens-studio.json",
+  "outputDir": "./design-tokens",
+  "platforms": [
+    "ts"
+  ]
+}

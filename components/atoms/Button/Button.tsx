@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, Pressable } from 'react-native';
 import PropTypes from 'prop-types';
+import { BLACK, WHITE, GRAY_1 } from '../../../design-tokens/tokens';
 
 const Button = (props) => {
   const {
@@ -24,14 +25,14 @@ const styles = StyleSheet.create({
     paddingVertical: 10
   },
   text: {
-    color: '#ffffff',
+    color: WHITE,
     fontSize: 20
   },
   primary: {
-    backgroundColor: '#333333',
+    backgroundColor: BLACK,
   },
   secondary: {
-    backgroundColor: '#828282',
+    backgroundColor: GRAY_1,
   }
 });
 

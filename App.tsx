@@ -14,8 +14,13 @@ const App: React.FC = () => {
     <View style={styles.container}>
       <Text>Hello World!</Text>
       <Button
-        title="Click Me!"
-        onPress={() => Alert.alert('Button Pressed!')}
+        title="Click Me, I'm a Primary button!"
+        onPress={() => Alert.alert('Primary button Pressed!')}
+      />
+      <Button
+        title="Click Me, I'm a Secondary button!"
+        onPress={() => Alert.alert('Secondary button Pressed!')}
+        role="secondary"
       />
     </View>
   );
