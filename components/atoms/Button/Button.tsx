@@ -9,8 +9,6 @@ const Button = (props) => {
     role
   } = props;
 
-  console.log(role);
-
   const buttonStyle = StyleSheet.flatten([styles.button, styles[role]]);
 
   return (

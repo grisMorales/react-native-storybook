@@ -6,14 +6,14 @@ import {
   Alert
 } from "react-native";
 import Constants from "expo-constants";
-import PrimaryButton from "./components/PrimaryButton/Button";
+import Button from "./components/atoms/Button/Button";
 
 
 const App: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text>Hello World!</Text>
-      <PrimaryButton
+      <Button
         title="Click Me!"
         onPress={() => Alert.alert('Button Pressed!')}
       />
