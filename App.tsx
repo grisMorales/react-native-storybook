@@ -6,7 +6,7 @@ import {
   Alert
 } from "react-native";
 import Constants from "expo-constants";
-import PrimaryButton from "./components/PrimaryButton/PrimaryButton";
+import PrimaryButton from "./components/PrimaryButton/Button";
 
 
 const App: React.FC = () => {

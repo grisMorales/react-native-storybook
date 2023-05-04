@@ -47,7 +47,7 @@ try {
 
 const getStories = () => {
   return {
-    "./components/PrimaryButton/PrimaryButton.stories.tsx": require("../components/PrimaryButton/PrimaryButton.stories.tsx"),
+    "./components/PrimaryButton/Button.stories.tsx": require("../components/PrimaryButton/Button.stories.tsx"),
   };
 };
 

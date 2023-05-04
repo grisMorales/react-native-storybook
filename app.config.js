@@ -1,7 +1,7 @@
 export default ({ config }) => ({
   ...config,
-  name: "Storybook Tutorial Template",
-  slug: "storybook-tutorial-template",
+  name: "React Native Design System",
+  slug: "react-native-design-system",
   extra: {
     storybookEnabled: process.env.STORYBOOK_ENABLED,
   },
