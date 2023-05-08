@@ -2,8 +2,15 @@
   "tokenFormat": "TokensStudio",
   "figmaFileId": "",
   "inputFile": "./tokens-studio.json",
-  "outputDir": "./design-tokens",
+  "outputDir": "./src/styles/tokens",
   "platforms": [
-    "ts"
+    "css",
+    "cssAutocomplete",
+    "scss",
+    "scssMap",
+    "less",
+    "js",
+    "ts",
+    "json"
   ]
 }

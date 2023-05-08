@@ -45,7 +45,7 @@
       "type": "color"
     },
     "Blue 2": {
-      "value": "#2d9cdbe6",
+      "value": "#06344ee6",
       "type": "color"
     },
     "Blue 3": {
@@ -57,7 +57,7 @@
       "type": "color"
     },
     "Green 2": {
-      "value": "#27ae60",
+      "value": "#136c38",
       "type": "color"
     },
     "Green 3": {
@@ -339,6 +339,10 @@
         "value": "0px",
         "type": "dimension"
       }
+    },
+    "Gris 1": {
+      "value": "#c85757",
+      "type": "color"
     }
   },
   "$themes": [],

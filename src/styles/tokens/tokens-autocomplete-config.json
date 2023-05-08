@@ -1,0 +1,674 @@
+{
+	"--black": {
+		"prefix": "--black",
+		"body": [
+			"var(--black)"
+		],
+		"description": "Value: #333333\\nUnder Black category."
+	},
+	"--blue-1": {
+		"prefix": "--blue-1",
+		"body": [
+			"var(--blue-1)"
+		],
+		"description": "Value: #2f80ed\\nUnder Blue 1 category."
+	},
+	"--blue-2": {
+		"prefix": "--blue-2",
+		"body": [
+			"var(--blue-2)"
+		],
+		"description": "Value: #06344ee6\\nUnder Blue 2 category."
+	},
+	"--blue-3": {
+		"prefix": "--blue-3",
+		"body": [
+			"var(--blue-3)"
+		],
+		"description": "Value: #56ccf2cc\\nUnder Blue 3 category."
+	},
+	"--blue-4": {
+		"prefix": "--blue-4",
+		"body": [
+			"var(--blue-4)"
+		],
+		"description": "Value: #56ccf254\\nUnder Blue 4 category."
+	},
+	"--body-l-font-family": {
+		"prefix": "--body-l-font-family",
+		"body": [
+			"var(--body-l-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Body L category."
+	},
+	"--body-l-font-size": {
+		"prefix": "--body-l-font-size",
+		"body": [
+			"var(--body-l-font-size)"
+		],
+		"description": "Value: 20\\nUnder Body L category."
+	},
+	"--body-l-font-weight": {
+		"prefix": "--body-l-font-weight",
+		"body": [
+			"var(--body-l-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Body L category."
+	},
+	"--body-l-letter-spacing": {
+		"prefix": "--body-l-letter-spacing",
+		"body": [
+			"var(--body-l-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Body L category."
+	},
+	"--body-l-line-height": {
+		"prefix": "--body-l-line-height",
+		"body": [
+			"var(--body-l-line-height)"
+		],
+		"description": "Value: auto\\nUnder Body L category."
+	},
+	"--body-l-paragraph-indent": {
+		"prefix": "--body-l-paragraph-indent",
+		"body": [
+			"var(--body-l-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Body L category."
+	},
+	"--body-l-text-case": {
+		"prefix": "--body-l-text-case",
+		"body": [
+			"var(--body-l-text-case)"
+		],
+		"description": "Value: none\\nUnder Body L category."
+	},
+	"--body-m-font-family": {
+		"prefix": "--body-m-font-family",
+		"body": [
+			"var(--body-m-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Body M category."
+	},
+	"--body-m-font-size": {
+		"prefix": "--body-m-font-size",
+		"body": [
+			"var(--body-m-font-size)"
+		],
+		"description": "Value: 18\\nUnder Body M category."
+	},
+	"--body-m-font-weight": {
+		"prefix": "--body-m-font-weight",
+		"body": [
+			"var(--body-m-font-weight)"
+		],
+		"description": "Value: Bold\\nUnder Body M category."
+	},
+	"--body-m-letter-spacing": {
+		"prefix": "--body-m-letter-spacing",
+		"body": [
+			"var(--body-m-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Body M category."
+	},
+	"--body-m-line-height": {
+		"prefix": "--body-m-line-height",
+		"body": [
+			"var(--body-m-line-height)"
+		],
+		"description": "Value: 100%\\nUnder Body M category."
+	},
+	"--body-m-paragraph-indent": {
+		"prefix": "--body-m-paragraph-indent",
+		"body": [
+			"var(--body-m-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Body M category."
+	},
+	"--body-m-text-case": {
+		"prefix": "--body-m-text-case",
+		"body": [
+			"var(--body-m-text-case)"
+		],
+		"description": "Value: uppercase\\nUnder Body M category."
+	},
+	"--body-s-font-family": {
+		"prefix": "--body-s-font-family",
+		"body": [
+			"var(--body-s-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Body S category."
+	},
+	"--body-s-font-size": {
+		"prefix": "--body-s-font-size",
+		"body": [
+			"var(--body-s-font-size)"
+		],
+		"description": "Value: 16\\nUnder Body S category."
+	},
+	"--body-s-font-weight": {
+		"prefix": "--body-s-font-weight",
+		"body": [
+			"var(--body-s-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Body S category."
+	},
+	"--body-s-letter-spacing": {
+		"prefix": "--body-s-letter-spacing",
+		"body": [
+			"var(--body-s-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Body S category."
+	},
+	"--body-s-line-height": {
+		"prefix": "--body-s-line-height",
+		"body": [
+			"var(--body-s-line-height)"
+		],
+		"description": "Value: 135%\\nUnder Body S category."
+	},
+	"--body-s-paragraph-indent": {
+		"prefix": "--body-s-paragraph-indent",
+		"body": [
+			"var(--body-s-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Body S category."
+	},
+	"--body-s-text-case": {
+		"prefix": "--body-s-text-case",
+		"body": [
+			"var(--body-s-text-case)"
+		],
+		"description": "Value: none\\nUnder Body S category."
+	},
+	"--font-families-helvetica-neue": {
+		"prefix": "--font-families-helvetica-neue",
+		"body": [
+			"var(--font-families-helvetica-neue)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder fontFamilies category."
+	},
+	"--font-size-0": {
+		"prefix": "--font-size-0",
+		"body": [
+			"var(--font-size-0)"
+		],
+		"description": "Value: 12\\nUnder fontSize category."
+	},
+	"--font-size-1": {
+		"prefix": "--font-size-1",
+		"body": [
+			"var(--font-size-1)"
+		],
+		"description": "Value: 16\\nUnder fontSize category."
+	},
+	"--font-size-2": {
+		"prefix": "--font-size-2",
+		"body": [
+			"var(--font-size-2)"
+		],
+		"description": "Value: 18\\nUnder fontSize category."
+	},
+	"--font-size-3": {
+		"prefix": "--font-size-3",
+		"body": [
+			"var(--font-size-3)"
+		],
+		"description": "Value: 20\\nUnder fontSize category."
+	},
+	"--font-size-4": {
+		"prefix": "--font-size-4",
+		"body": [
+			"var(--font-size-4)"
+		],
+		"description": "Value: 26\\nUnder fontSize category."
+	},
+	"--font-size-5": {
+		"prefix": "--font-size-5",
+		"body": [
+			"var(--font-size-5)"
+		],
+		"description": "Value: 32\\nUnder fontSize category."
+	},
+	"--font-size-6": {
+		"prefix": "--font-size-6",
+		"body": [
+			"var(--font-size-6)"
+		],
+		"description": "Value: 40\\nUnder fontSize category."
+	},
+	"--font-size-7": {
+		"prefix": "--font-size-7",
+		"body": [
+			"var(--font-size-7)"
+		],
+		"description": "Value: 48\\nUnder fontSize category."
+	},
+	"--font-weights-helvetica-neue-0": {
+		"prefix": "--font-weights-helvetica-neue-0",
+		"body": [
+			"var(--font-weights-helvetica-neue-0)"
+		],
+		"description": "Value: Bold\\nUnder fontWeights category."
+	},
+	"--font-weights-helvetica-neue-1": {
+		"prefix": "--font-weights-helvetica-neue-1",
+		"body": [
+			"var(--font-weights-helvetica-neue-1)"
+		],
+		"description": "Value: Regular\\nUnder fontWeights category."
+	},
+	"--gray-1": {
+		"prefix": "--gray-1",
+		"body": [
+			"var(--gray-1)"
+		],
+		"description": "Value: #4f4f4f\\nUnder Gray 1 category."
+	},
+	"--gray-2": {
+		"prefix": "--gray-2",
+		"body": [
+			"var(--gray-2)"
+		],
+		"description": "Value: #828282\\nUnder Gray 2 category."
+	},
+	"--gray-3": {
+		"prefix": "--gray-3",
+		"body": [
+			"var(--gray-3)"
+		],
+		"description": "Value: #bdbdbd\\nUnder Gray 3 category."
+	},
+	"--gray-4": {
+		"prefix": "--gray-4",
+		"body": [
+			"var(--gray-4)"
+		],
+		"description": "Value: #e0e0e0\\nUnder Gray 4 category."
+	},
+	"--gray-5": {
+		"prefix": "--gray-5",
+		"body": [
+			"var(--gray-5)"
+		],
+		"description": "Value: #f2f2f2\\nUnder Gray 5 category."
+	},
+	"--green-1": {
+		"prefix": "--green-1",
+		"body": [
+			"var(--green-1)"
+		],
+		"description": "Value: #219653\\nUnder Green 1 category."
+	},
+	"--green-2": {
+		"prefix": "--green-2",
+		"body": [
+			"var(--green-2)"
+		],
+		"description": "Value: #136c38\\nUnder Green 2 category."
+	},
+	"--green-3": {
+		"prefix": "--green-3",
+		"body": [
+			"var(--green-3)"
+		],
+		"description": "Value: #6fcf97\\nUnder Green 3 category."
+	},
+	"--gris-1": {
+		"prefix": "--gris-1",
+		"body": [
+			"var(--gris-1)"
+		],
+		"description": "Value: #c85757\\nUnder Gris 1 category."
+	},
+	"--heading-l-font-family": {
+		"prefix": "--heading-l-font-family",
+		"body": [
+			"var(--heading-l-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Heading L category."
+	},
+	"--heading-l-font-size": {
+		"prefix": "--heading-l-font-size",
+		"body": [
+			"var(--heading-l-font-size)"
+		],
+		"description": "Value: 48\\nUnder Heading L category."
+	},
+	"--heading-l-font-weight": {
+		"prefix": "--heading-l-font-weight",
+		"body": [
+			"var(--heading-l-font-weight)"
+		],
+		"description": "Value: Bold\\nUnder Heading L category."
+	},
+	"--heading-l-letter-spacing": {
+		"prefix": "--heading-l-letter-spacing",
+		"body": [
+			"var(--heading-l-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Heading L category."
+	},
+	"--heading-l-line-height": {
+		"prefix": "--heading-l-line-height",
+		"body": [
+			"var(--heading-l-line-height)"
+		],
+		"description": "Value: 135%\\nUnder Heading L category."
+	},
+	"--heading-l-paragraph-indent": {
+		"prefix": "--heading-l-paragraph-indent",
+		"body": [
+			"var(--heading-l-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Heading L category."
+	},
+	"--heading-l-text-case": {
+		"prefix": "--heading-l-text-case",
+		"body": [
+			"var(--heading-l-text-case)"
+		],
+		"description": "Value: none\\nUnder Heading L category."
+	},
+	"--heading-m-font-family": {
+		"prefix": "--heading-m-font-family",
+		"body": [
+			"var(--heading-m-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Heading M category."
+	},
+	"--heading-m-font-size": {
+		"prefix": "--heading-m-font-size",
+		"body": [
+			"var(--heading-m-font-size)"
+		],
+		"description": "Value: 40\\nUnder Heading M category."
+	},
+	"--heading-m-font-weight": {
+		"prefix": "--heading-m-font-weight",
+		"body": [
+			"var(--heading-m-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Heading M category."
+	},
+	"--heading-m-letter-spacing": {
+		"prefix": "--heading-m-letter-spacing",
+		"body": [
+			"var(--heading-m-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Heading M category."
+	},
+	"--heading-m-line-height": {
+		"prefix": "--heading-m-line-height",
+		"body": [
+			"var(--heading-m-line-height)"
+		],
+		"description": "Value: 135%\\nUnder Heading M category."
+	},
+	"--heading-m-paragraph-indent": {
+		"prefix": "--heading-m-paragraph-indent",
+		"body": [
+			"var(--heading-m-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Heading M category."
+	},
+	"--heading-m-text-case": {
+		"prefix": "--heading-m-text-case",
+		"body": [
+			"var(--heading-m-text-case)"
+		],
+		"description": "Value: none\\nUnder Heading M category."
+	},
+	"--heading-s-font-family": {
+		"prefix": "--heading-s-font-family",
+		"body": [
+			"var(--heading-s-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Heading S category."
+	},
+	"--heading-s-font-size": {
+		"prefix": "--heading-s-font-size",
+		"body": [
+			"var(--heading-s-font-size)"
+		],
+		"description": "Value: 32\\nUnder Heading S category."
+	},
+	"--heading-s-font-weight": {
+		"prefix": "--heading-s-font-weight",
+		"body": [
+			"var(--heading-s-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Heading S category."
+	},
+	"--heading-s-letter-spacing": {
+		"prefix": "--heading-s-letter-spacing",
+		"body": [
+			"var(--heading-s-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Heading S category."
+	},
+	"--heading-s-line-height": {
+		"prefix": "--heading-s-line-height",
+		"body": [
+			"var(--heading-s-line-height)"
+		],
+		"description": "Value: auto\\nUnder Heading S category."
+	},
+	"--heading-s-paragraph-indent": {
+		"prefix": "--heading-s-paragraph-indent",
+		"body": [
+			"var(--heading-s-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Heading S category."
+	},
+	"--heading-s-text-case": {
+		"prefix": "--heading-s-text-case",
+		"body": [
+			"var(--heading-s-text-case)"
+		],
+		"description": "Value: none\\nUnder Heading S category."
+	},
+	"--heading-xs-font-family": {
+		"prefix": "--heading-xs-font-family",
+		"body": [
+			"var(--heading-xs-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Heading Xs category."
+	},
+	"--heading-xs-font-size": {
+		"prefix": "--heading-xs-font-size",
+		"body": [
+			"var(--heading-xs-font-size)"
+		],
+		"description": "Value: 26\\nUnder Heading Xs category."
+	},
+	"--heading-xs-font-weight": {
+		"prefix": "--heading-xs-font-weight",
+		"body": [
+			"var(--heading-xs-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Heading Xs category."
+	},
+	"--heading-xs-letter-spacing": {
+		"prefix": "--heading-xs-letter-spacing",
+		"body": [
+			"var(--heading-xs-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Heading Xs category."
+	},
+	"--heading-xs-line-height": {
+		"prefix": "--heading-xs-line-height",
+		"body": [
+			"var(--heading-xs-line-height)"
+		],
+		"description": "Value: auto\\nUnder Heading Xs category."
+	},
+	"--heading-xs-paragraph-indent": {
+		"prefix": "--heading-xs-paragraph-indent",
+		"body": [
+			"var(--heading-xs-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Heading Xs category."
+	},
+	"--heading-xs-text-case": {
+		"prefix": "--heading-xs-text-case",
+		"body": [
+			"var(--heading-xs-text-case)"
+		],
+		"description": "Value: none\\nUnder Heading Xs category."
+	},
+	"--letter-spacing-0": {
+		"prefix": "--letter-spacing-0",
+		"body": [
+			"var(--letter-spacing-0)"
+		],
+		"description": "Value: 0%\\nUnder letterSpacing category."
+	},
+	"--line-heights-0": {
+		"prefix": "--line-heights-0",
+		"body": [
+			"var(--line-heights-0)"
+		],
+		"description": "Value: 135%\\nUnder lineHeights category."
+	},
+	"--line-heights-1": {
+		"prefix": "--line-heights-1",
+		"body": [
+			"var(--line-heights-1)"
+		],
+		"description": "Value: AUTO\\nUnder lineHeights category."
+	},
+	"--line-heights-2": {
+		"prefix": "--line-heights-2",
+		"body": [
+			"var(--line-heights-2)"
+		],
+		"description": "Value: 100%\\nUnder lineHeights category."
+	},
+	"--microcopy-font-family": {
+		"prefix": "--microcopy-font-family",
+		"body": [
+			"var(--microcopy-font-family)"
+		],
+		"description": "Value: Helvetica Neue\\nUnder Microcopy category."
+	},
+	"--microcopy-font-size": {
+		"prefix": "--microcopy-font-size",
+		"body": [
+			"var(--microcopy-font-size)"
+		],
+		"description": "Value: 12\\nUnder Microcopy category."
+	},
+	"--microcopy-font-weight": {
+		"prefix": "--microcopy-font-weight",
+		"body": [
+			"var(--microcopy-font-weight)"
+		],
+		"description": "Value: Regular\\nUnder Microcopy category."
+	},
+	"--microcopy-letter-spacing": {
+		"prefix": "--microcopy-letter-spacing",
+		"body": [
+			"var(--microcopy-letter-spacing)"
+		],
+		"description": "Value: 0%\\nUnder Microcopy category."
+	},
+	"--microcopy-line-height": {
+		"prefix": "--microcopy-line-height",
+		"body": [
+			"var(--microcopy-line-height)"
+		],
+		"description": "Value: auto\\nUnder Microcopy category."
+	},
+	"--microcopy-paragraph-indent": {
+		"prefix": "--microcopy-paragraph-indent",
+		"body": [
+			"var(--microcopy-paragraph-indent)"
+		],
+		"description": "Value: 0px\\nUnder Microcopy category."
+	},
+	"--microcopy-text-case": {
+		"prefix": "--microcopy-text-case",
+		"body": [
+			"var(--microcopy-text-case)"
+		],
+		"description": "Value: none\\nUnder Microcopy category."
+	},
+	"--orange": {
+		"prefix": "--orange",
+		"body": [
+			"var(--orange)"
+		],
+		"description": "Value: #f2994a\\nUnder Orange category."
+	},
+	"--paragraph-indent-0": {
+		"prefix": "--paragraph-indent-0",
+		"body": [
+			"var(--paragraph-indent-0)"
+		],
+		"description": "Value: 0px\\nUnder paragraphIndent category."
+	},
+	"--red": {
+		"prefix": "--red",
+		"body": [
+			"var(--red)"
+		],
+		"description": "Value: #eb5757\\nUnder Red category."
+	},
+	"--shadow-deep": {
+		"prefix": "--shadow-deep",
+		"body": [
+			"var(--shadow-deep)"
+		],
+		"description": "Value: (0.1875rem 0.1875rem 0.1875rem 0rem #c4c4c4bf)\\nUnder Shadow Deep category."
+	},
+	"--shadow-deep-multiple": {
+		"prefix": "--shadow-deep-multiple",
+		"body": [
+			"var(--shadow-deep-multiple)"
+		],
+		"description": "Value: (0rem 0.25rem 1.25rem 0rem #0000001a, 0rem 0.25rem 0.25rem 0rem #0000002b)\\nUnder Shadow Deep (Multiple) category."
+	},
+	"--shadow-medium": {
+		"prefix": "--shadow-medium",
+		"body": [
+			"var(--shadow-medium)"
+		],
+		"description": "Value: (0rem 0rem 0.3125rem 0rem #00000080)\\nUnder Shadow Medium category."
+	},
+	"--shadow-soft": {
+		"prefix": "--shadow-soft",
+		"body": [
+			"var(--shadow-soft)"
+		],
+		"description": "Value: (0rem 0rem 0.3125rem 0rem #c4c4c4)\\nUnder Shadow Soft category."
+	},
+	"--text-case-none": {
+		"prefix": "--text-case-none",
+		"body": [
+			"var(--text-case-none)"
+		],
+		"description": "Value: none\\nUnder textCase category."
+	},
+	"--text-case-uppercase": {
+		"prefix": "--text-case-uppercase",
+		"body": [
+			"var(--text-case-uppercase)"
+		],
+		"description": "Value: uppercase\\nUnder textCase category."
+	},
+	"--white": {
+		"prefix": "--white",
+		"body": [
+			"var(--white)"
+		],
+		"description": "Value: #ffffff\\nUnder White category."
+	},
+	"--yellow": {
+		"prefix": "--yellow",
+		"body": [
+			"var(--yellow)"
+		],
+		"description": "Value: #f2c94c\\nUnder Yellow category."
+	}
+}

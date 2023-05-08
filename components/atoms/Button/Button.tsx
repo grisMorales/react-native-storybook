@@ -1,7 +1,7 @@
 import React from 'react';
-import { StyleSheet, Text, Pressable } from 'react-native';
+import { StyleSheet, Text, TouchableHighlight } from 'react-native';
 import PropTypes from 'prop-types';
-import { BLACK, WHITE, GRAY_1 } from '../../../design-tokens/tokens';
+import {YELLOW, BLUE_1,GRAY_1,ORANGE, WHITE } from './../../../src/styles/tokens/tokens'
 
 const Button = (props) => {
   const {
@@ -11,13 +11,27 @@ const Button = (props) => {
   } = props;
 
   const buttonStyle = StyleSheet.flatten([styles.button, styles[role]]);
+  var [ isPress, setIsPress ] = React.useState(false);
+
+  
+  var touchProps = {
+    activeOpacity: 1,
+    underlayColor: GRAY_1,                             
+    style: styles[role], 
+    onHideUnderlay: () => setIsPress(false),
+    onShowUnderlay: () => setIsPress(true),
+    onPress: () => console.log('HELLO'),
+  };
 
   return (
-    <Pressable style={buttonStyle} onPress={onPress}>
+    <TouchableHighlight {...touchProps} onPress={onPress}>
        <Text style={styles.text}>{title}</Text>
-     </Pressable>
+     </TouchableHighlight>
   );
 };
+
+
+
 
 const styles = StyleSheet.create({
   button: {
@@ -29,10 +43,13 @@ const styles = StyleSheet.create({
     fontSize: 20
   },
   primary: {
-    backgroundColor: BLACK,
+    backgroundColor: YELLOW,
   },
   secondary: {
-    backgroundColor: GRAY_1,
+    backgroundColor: ORANGE,
+  },
+  pressed:{
+    backgroundColor: BLUE_1
   }
 });
 
